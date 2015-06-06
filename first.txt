@@ -1,3 +1,5 @@
 This is my first git file.
 
 making a modification
+
+How does diff work between modifed/staged
