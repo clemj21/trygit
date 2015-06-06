@@ -1,3 +1,5 @@
 This is MY SECOND GIT FILE.
 
 Wonder how Untracked vs tracked vs modififed blah blah blah work
+
+This modification will then cause a Staged/Modified/Untracked files with git status
