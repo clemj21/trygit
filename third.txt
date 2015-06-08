@@ -4,3 +4,5 @@ I wonder what this looks like before I add, with the modified and staged files
 
 lets see if clone's dir gets out of date just with a push
 
+clone makes a modification
+
