@@ -7,3 +7,6 @@ This modification will then cause a Staged/Modified/Untracked files with git sta
 making a change
 
 how does diff work when same file is modified and in staged
+
+Commit this and push it to the remote repository
+
