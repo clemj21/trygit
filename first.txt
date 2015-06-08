@@ -7,3 +7,5 @@ How does diff work between modifed/staged
 understand diff from various states
 
 there should be a different modification in staged
+
+why did a modified file get moved to master on a commit and not just staged
