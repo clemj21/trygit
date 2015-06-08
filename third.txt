@@ -8,3 +8,4 @@ try make s a modification at the same time as clone, but clone will commit and p
 
 clone makes a modification
 
+second commit without syncing with renote repo
