@@ -4,3 +4,4 @@ I wonder what this looks like before I add, with the modified and staged files
 
 lets see if clone's dir gets out of date just with a push
 
+try make s a modification at the same time as clone, but clone will commit and push first
