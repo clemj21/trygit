@@ -10,3 +10,4 @@ how does diff work when same file is modified and in staged
 
 Commit this and push it to the remote repository
 
+what does this looklike in github gui
