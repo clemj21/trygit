@@ -3,3 +3,7 @@ This is my first git file.
 making a modification
 
 How does diff work between modifed/staged
+
+understand diff from various states
+
+there should be a different modification in staged
